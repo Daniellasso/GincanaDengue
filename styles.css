@@ -1,0 +1,42 @@
+.tamanho {
+  margin-left: 25%;
+}
+.cor {
+  background-color: blueviolet;
+  height: 20px;
+}
+.image {
+  display: flex;
+}
+.tamanhoimg {
+  width: 350px;
+  height: auto;
+}
+.tamanhodados {
+  width: 500px;
+  height: auto;
+}
+.tamanhoicons {
+  width: 50px;
+  height: 50px;
+}
+.devs {
+  align-items: center;
+  padding: 10px;
+  color: white;
+}
+.devsInfo {
+  margin-top: 100px;
+}
+.devstext {
+  flex-direction: row;
+  margin-left: 10px;
+  color: "#fff";
+  font-size: 25;
+}
+.tamanhodesenvolvedores {
+  width: 800px;
+  height: 450px;
+  margin-left: 40%;
+  margin-top: -450px;
+}
